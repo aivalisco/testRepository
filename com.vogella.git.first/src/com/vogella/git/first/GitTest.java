@@ -5,5 +5,6 @@ public class GitTest {
 		System.out.println("Git is nice, cool and useful!");
 		System.out.println("Noch eine  Z eile output ");
 		System.out.println("A Token used!");
+		// 22:30 addiert...
 	}
 }
