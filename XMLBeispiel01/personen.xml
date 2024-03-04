@@ -1,0 +1,13 @@
+<!DOCTYPE Personen SYSTEM "personen.dtd">
+<Personen>
+    <Person>
+        <Name>Anna Schmidt</Name>
+        <Alter>25</Alter>
+        <Stadt>München</Stadt>
+    </Person>
+    <Person>
+        <Name>Klaus Müller</Name>
+        <Alter>40</Alter>
+        <Stadt>Hamburg</Stadt>
+    </Person>
+</Personen>

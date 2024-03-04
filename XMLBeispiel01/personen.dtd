@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Personen (Person+)>
+<!ELEMENT Person (Name, Alter, Stadt)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Alter (#PCDATA)>
+<!ELEMENT Stadt (#PCDATA)>
