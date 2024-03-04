@@ -38,6 +38,7 @@ public class XMLParserBeispiel {
 				System.out.println("Alter: " + alter);
 				System.out.println("Stadt: " + stadt);
 				System.out.println();
+				
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
