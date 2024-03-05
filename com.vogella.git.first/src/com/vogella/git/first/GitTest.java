@@ -7,5 +7,6 @@ public class GitTest {
 		System.out.println("A Token used!");
 		// 22:30 addiert...
 		// 22:57
+		//Dienstag
 	}
 }
